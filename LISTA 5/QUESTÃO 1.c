@@ -3,7 +3,7 @@
 // ALUNO: PEDRO FRANÇA DE LIMA
 // MATÉRIA: ALGORITMO E PROGRAMAÇÃO ESTRUTURADA
 // PROFESSOR: Osman Brás de Souto
-// LISTA 4
+// LISTA 5
 // QUESTÃO 1
 
 #include <stdio.h>
