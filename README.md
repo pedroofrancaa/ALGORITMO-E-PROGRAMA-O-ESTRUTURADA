@@ -2,6 +2,4 @@
 
 ## Repositório para a postagem das atividades e códigos feitos na aula de Algoritmo e Programação Estruturada.
 
-### UNIVERSIDADE CATOLICA DE BRASÍLIA
-### ALGORITIMO E PROGRAMAÇÃO ESTRUTURADA
-### LINGUAGEM C
+#### 📍 **Universidade Catolica de Brasilia / Catholic University of Brasilia** - Brasília, Brazil
