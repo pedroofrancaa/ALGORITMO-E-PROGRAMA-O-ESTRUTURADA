@@ -3,7 +3,7 @@
 ### Repositório para a postagem das atividades e códigos feitos na aula de Algoritmo e Programação Estruturada.
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=CURSANDO&color=GREEN&style=for-the-badge) &nbsp; &nbsp;![Badge em Nota](http://img.shields.io/static/v1?label=NOTA&message=NÃO%20LANÇADA&color=%23FF0000&style=for-the-badge)
 
-> ⚠️ **ALERTA:** TODOS OS CÓDIGOS FORAM DESENVOLVIDOS UTILIZANDO A CODIFICAÇÃO WINDOWS-1252. AO ABRIR ESSES CÓDIGOS NO VISUAL STUDIO, É NECESSÁRIO MODIFICAR A CONFIGURAÇÃO PADRÃO, QUE UTILIZA UTF-8. ALÉM DISSO, É RECOMENDADO NÃO ABRIR NENHUM CÓDIGO UTILIZANDO O DEVC++.
+> ⚠️ **ALERTA:** Todos os códigos foram desenvolvidos utilizando a codificação Windows-1252. Ao abrir esses códigos em qualquer compilador de C, é necessário confirmar que ele utilize a mesma codificação. Além disso, é recomendado não abrir nenhum código utilizando o DevC++.
 
 ### 📍 **Universidade Catolica de Brasilia / Catholic University of Brasilia** - Brasília, Brazil
 **MATÉRIA:** Algoritimo e Programação Estruturada <br>
