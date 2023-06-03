@@ -15,9 +15,20 @@
 
 ## CONTEÚDO DA MATÉRIA
 
-| CONTEÚDO | 
-| --- |
-| Sintaxe e semântica de uma linguagem de alto nível | 
+| Número | Tópico                                                   |
+| ------ | -------------------------------------------------------- |
+| 1.     | Sintaxe e semântica de uma linguagem de alto nível        |
+| 2.     | Estrutura de dados fundamentais: Declarações e tipos      |
+| 3.     | Git e GitHub                                             |
+| 4.     | Estruturas sequencial, condicional e repetição            |
+| 5.     | Mecanismos de Abstração: Procedimentos, funções e iterações como mecanismos de abstração |
+| 6.     | Mecanismos de parametrização (referência versus valor)    |
+| 7.     | Vetores e Matrizes                                       |
+| 8.     | Registros (estruturas)                                   |
+| 9.     | Strings e processamento de strings                       |
+| 10.    | Ponteiros                                                |
+| 11.    | Representação dos dados na memória: Alocação estática e Dinâmica |
+| 12.    | Gerenciamento de memória em tempo de execução             |
 
 ##  Referências Bibliográficas
 
