@@ -1,7 +1,7 @@
 # ALGORITMO E PROGRAMAÇÃO ESTRUTURADA
 
 ### Repositório para a postagem das atividades e códigos feitos na aula de Algoritmo e Programação Estruturada.
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=CURSANDO&color=GREEN&style=for-the-badge) &nbsp; &nbsp;![Badge em Nota](http://img.shields.io/static/v1?label=NOTA&message=NÃO%20LANÇADA&color=%23FF0000&style=for-the-badge)  &nbsp; &nbsp; ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=GREEN&style=for-the-badge) &nbsp; &nbsp;![Badge em Nota](http://img.shields.io/static/v1?label=NOTA&message=10/10&color=%23FF0000&style=for-the-badge)  &nbsp; &nbsp; ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 > ⚠️ **ALERTA:** Todos os códigos foram desenvolvidos utilizando a codificação Windows-1252. Ao abrir esses códigos em qualquer compilador de C, é necessário confirmar que ele utilize a mesma codificação. Além disso, é recomendado não abrir nenhum código utilizando o DevC++.
 
